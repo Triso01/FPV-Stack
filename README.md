@@ -24,13 +24,14 @@ VTX Connector Pinout:
 
 ![image](https://github.com/user-attachments/assets/02fa92fd-d398-48e4-8216-80786e9df85d)
 
-![image](https://github.com/user-attachments/assets/9fd51a3d-986d-4bab-823d-c0e69cd0fe62)
+<img width="1278" height="1210" alt="image" src="https://github.com/user-attachments/assets/8f68a6aa-4a19-4028-a141-bd8eeeb83b56" />
+<img width="1348" height="1202" alt="image" src="https://github.com/user-attachments/assets/d21a1414-3365-4407-bec8-b38a99690678" />
+<img width="1497" height="1276" alt="image" src="https://github.com/user-attachments/assets/ea70f580-e02d-4706-84e7-6a4f116be7cf" />
+<img width="1574" height="1274" alt="image" src="https://github.com/user-attachments/assets/a720a226-70d4-4e48-88e6-470861d25954" />
 
-![image](https://github.com/user-attachments/assets/4c6c59c7-f465-48b8-acce-909db07c0341)
 
-![image](https://github.com/user-attachments/assets/06f191ca-75c1-4dad-ba8f-6e8010f63728)
 
-![image](https://github.com/user-attachments/assets/af188d92-3714-46df-8ad5-d1bef2249063)
+
 
 4in1 ESC:
 
