@@ -29,7 +29,7 @@ VTX Connector Pinout:
 <img width="1497" height="1276" alt="image" src="https://github.com/user-attachments/assets/ea70f580-e02d-4706-84e7-6a4f116be7cf" />
 <img width="1574" height="1274" alt="image" src="https://github.com/user-attachments/assets/a720a226-70d4-4e48-88e6-470861d25954" />
 
-
+[Pictures outdated, new ones will be added soon!]
 
 
 
