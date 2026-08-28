@@ -1,5 +1,6 @@
-Designing my own FPV Stack, it WILL have errors, so do NOT use it in your Drone!
-
+Note:
+  Designing my own FPV Stack, it WILL have errors, so do NOT use it in your Drone!
+  The 4 in 1 ESC will be continued later, I don not have the experience to finish it yet.
 Flight Controller:
 
 - No Analog OSD, made for BetaFPV P1 or optionally Walksnail and DJI
@@ -28,9 +29,19 @@ VTX Connector Pinout:
 <img width="957" height="978" alt="image" src="https://github.com/user-attachments/assets/4df28cf1-1bec-48e5-b79f-035111ed15a6" />
 <img width="957" height="991" alt="image" src="https://github.com/user-attachments/assets/1c575da3-5469-4c99-a1cd-5d12f89e317c" />
 
+ESCs:
+Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
+  - Bluejay (Layout A), BLHeli_S compatible
+  - Dshot bidirectional
+
+<img width="1662" height="1083" alt="image" src="https://github.com/user-attachments/assets/a4ab39db-76fe-44ff-94d8-dd9fc02f15fd" />
+<img width="1413" height="1056" alt="image" src="https://github.com/user-attachments/assets/058e15bb-0476-4c1e-bf74-746a9674be20" />
+<img width="1826" height="1098" alt="image" src="https://github.com/user-attachments/assets/f478c95c-0dbb-4aff-b33c-7fa9c38a89fc" />
+<img width="1826" height="1097" alt="image" src="https://github.com/user-attachments/assets/51740e53-b592-4f35-a0d5-34a0d3031f98" />
 
 
 
+[Will be finished, when I have more experience]:
 4in1 ESC:
 Based on EFM8BB21, FD6288Q and 24 PSMN1R4-40YLDX.
 The PCB size is not final yet, it WILL change.
