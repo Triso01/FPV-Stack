@@ -34,10 +34,20 @@ Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
   - Bluejay (Layout A), BLHeli_S compatible
   - Dshot bidirectional
 
-<img width="1662" height="1083" alt="image" src="https://github.com/user-attachments/assets/a4ab39db-76fe-44ff-94d8-dd9fc02f15fd" />
-<img width="1413" height="1056" alt="image" src="https://github.com/user-attachments/assets/058e15bb-0476-4c1e-bf74-746a9674be20" />
-<img width="1826" height="1098" alt="image" src="https://github.com/user-attachments/assets/f478c95c-0dbb-4aff-b33c-7fa9c38a89fc" />
-<img width="1826" height="1097" alt="image" src="https://github.com/user-attachments/assets/51740e53-b592-4f35-a0d5-34a0d3031f98" />
+<img width="1665" height="1103" alt="image" src="https://github.com/user-attachments/assets/bf539ac3-1e6f-46c2-8df4-b04c4e2060f5" />
+<img width="1004" height="1028" alt="image" src="https://github.com/user-attachments/assets/2f4bb294-4d52-4ce5-b6f7-dd154d7c89fd" />
+<img width="595" height="915" alt="image" src="https://github.com/user-attachments/assets/ee599d2b-b64c-4e09-8b0a-3f4d7016ce60" />
+<img width="772" height="1034" alt="image" src="https://github.com/user-attachments/assets/d8b385d6-878d-4705-b879-7fcaa9624515" />
+<img width="586" height="920" alt="image" src="https://github.com/user-attachments/assets/4e06024a-95bd-42e9-b338-4f85c3afe31e" />
+
+ESC distribution board:
+10V Buck, 3,3V LDO and the ampmeter
+
+<img width="1682" height="1150" alt="image" src="https://github.com/user-attachments/assets/db60be26-f4ce-484b-8443-52aec6242ec7" />
+<img width="1393" height="1200" alt="image" src="https://github.com/user-attachments/assets/74cd6e27-873b-4b8a-b57e-195bceefee8b" />
+<img width="1347" height="1208" alt="image" src="https://github.com/user-attachments/assets/891c05cf-ec29-4131-bbb6-71624fa22584" />
+<img width="1345" height="1201" alt="image" src="https://github.com/user-attachments/assets/c8f3d0ea-838a-43b0-8c44-21e1876569fa" />
+<img width="1401" height="1212" alt="image" src="https://github.com/user-attachments/assets/85441016-78fc-4269-abc8-b97e6d8267e0" />
 
 
 
