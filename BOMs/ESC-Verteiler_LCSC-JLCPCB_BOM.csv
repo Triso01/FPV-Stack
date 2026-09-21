@@ -8,8 +8,6 @@
 "100nf","C7,C9,C10,C12","Capacitor_SMD:C_0805_2012Metric","4","C1711"
 "D","D1","Diode_SMD:D_SMA","1","C169419"
 "D","D14","Diode_SMD:D_SMB","1","C726831"
-"JST SH 1.0mm Horizontal 8P","J1","Connector_JST:JST_SH_SM08B-SRSS-TB_1x08-1MP_P1.00mm_Horizontal","1","C160407"
-"JST SH 1.0mm Horizontal 3P","J2,J3,J4,J5","Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal","4","C160403"
 "22uH","L1","Inductor_SMD:L_Bourns_SRP7028A_7.3x6.6mm","1","C1330991"
 "121kOhm","R8","Resistor_SMD:R_0402_1005Metric","1","C112303"
 "10kOhm","R9","Resistor_SMD:R_0402_1005Metric","1","C25744"
