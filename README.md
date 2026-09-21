@@ -60,12 +60,7 @@ The PCB size is not final yet, it WILL change.
   - Current Sensor: INA168 with a 0.5mOhms shunt
   - LMR14010 10V Buck to provide Gate voltage
   - AP2204K LDO 10V -> 3.3V
-
-
-<img width="620" height="689" alt="image" src="https://github.com/user-attachments/assets/55224fea-45c3-49e9-b421-0231f3f5e597" />
-<img width="646" height="733" alt="image" src="https://github.com/user-attachments/assets/5f0d59b5-1658-475f-b793-8542059c555a" />
-<img width="885" height="979" alt="image" src="https://github.com/user-attachments/assets/eab35526-971d-4d9d-8865-9f55a408255b" />
-<img width="886" height="1021" alt="image" src="https://github.com/user-attachments/assets/1eff501b-d4e1-49ca-bb0a-cfbdb499e4b7" />
+(You can see "pictures" when opening the PCB Files with KiCad)
 
 
 Now the expensive things (duhhh):
@@ -77,3 +72,7 @@ Parts:
 1. Select the columns like this
 2. Click "Create BOM"
 <img width="1499" height="921" alt="Bildschirmfoto 2026-09-21 um 22 52 28" src="https://github.com/user-attachments/assets/c3568974-c09d-41dd-9552-13fafc309793" />
+
+3. Click on "Add to Cart"
+<img width="1375" height="1022" alt="image" src="https://github.com/user-attachments/assets/56a1acbb-66d6-4fd9-8db6-033a1b2a1f35" />
+
