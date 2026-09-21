@@ -68,4 +68,12 @@ The PCB size is not final yet, it WILL change.
 <img width="886" height="1021" alt="image" src="https://github.com/user-attachments/assets/1eff501b-d4e1-49ca-bb0a-cfbdb499e4b7" />
 
 
+Now the expensive things (duhhh):
 
+PCBs:
+<img width="1534" height="794" alt="image" src="https://github.com/user-attachments/assets/fa026ec6-8ed2-4e17-a240-8ec0853c7238" />
+
+Parts:
+1. Select the columns like this
+2. Click "Create BOM"
+<img width="1499" height="921" alt="Bildschirmfoto 2026-09-21 um 22 52 28" src="https://github.com/user-attachments/assets/c3568974-c09d-41dd-9552-13fafc309793" />
