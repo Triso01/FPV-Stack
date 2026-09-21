@@ -4,7 +4,6 @@
 "1uf","C26,C43","Capacitor_SMD:C_0603_1608Metric","2","C15849"
 "100nf","C27","Capacitor_SMD:C_0603_1608Metric","1","C1591"
 "BAT54","D2,D3,D4","Diode_SMD:D_SOD-523","3","C283259"
-"JST SH 1.0mm Horizontal 3P","J1","Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal","1","C160403"
 "PSMN1R4-40YLDX","Q1,Q2,Q3,Q6,Q7,Q8","Package_TO_SOT_SMD:LFPAK56","6","C458253"
 "10kOhm","R1,R36,R37,R38","Resistor_SMD:R_0201_0603Metric","4","C473048"
 "10Ohm","R2,R3,R4,R5,R6,R7","Resistor_SMD:R_0201_0603Metric","6","C105901"
