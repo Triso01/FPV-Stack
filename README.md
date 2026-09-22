@@ -69,12 +69,15 @@ PCBs:
 <img width="1534" height="794" alt="image" src="https://github.com/user-attachments/assets/fa026ec6-8ed2-4e17-a240-8ec0853c7238" />
 
 Settings for FC:
+
 <img width="1034" height="1196" alt="image" src="https://github.com/user-attachments/assets/0bbbe7c5-9e72-4368-ade9-165676c027a3" />
 
 Settings for ESC:
+
 <img width="800" height="1228" alt="image" src="https://github.com/user-attachments/assets/912d6851-afc9-460f-9156-b1bff57dfebf" />
 
 Settings for ESC-Distrib:
+
 <img width="800" height="1228" alt="image" src="https://github.com/user-attachments/assets/4d07e428-c2d9-490a-b9a0-7cec350fcc89" />
 
 (You can change Surface Finish and Color if you want another Color or a higher quality finish)
