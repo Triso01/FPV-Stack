@@ -1,6 +1,8 @@
 Note:
+  I made it because I want to learn how to make BLDC-ESCs, 
   Designing my own FPV Stack, it WILL have errors, so do NOT use it in your Drone!
   The 4 in 1 ESC will be continued later, I don not have the experience to finish it yet.
+  
 Flight Controller:
 
 - No Analog OSD, made for BetaFPV P1 or optionally Walksnail and DJI
@@ -10,11 +12,13 @@ Flight Controller:
 - Buzzer Pads
 - 1 UART free to use e.g. for GPS
 
-ESC Connector Pinout:
+ESC and Flight Controller Connector Pinout:
 
 | [1]  | [2] | [3]  | [4]  | [5] | [6] | [7] | [8] |
 |------|-----|------|------|-----|-----|-----|-----|
 | VBAT | GND | CUR  | TEL  | M1  | M2  | M3  | M4  |
+
+<img width="1454" height="813" alt="image" src="https://github.com/user-attachments/assets/cea5050c-6f16-4621-b08c-f8499956465b" />
 
 VTX Connector Pinout:
 
@@ -33,7 +37,8 @@ ESCs:
 Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
   - Bluejay (Layout A), BLHeli_S compatible
   - Dshot bidirectional
-
+<img width="991" height="1260" alt="image" src="https://github.com/user-attachments/assets/08bcf4ac-f22e-441d-80b5-f10e1adb5359" />
+<img width="868" height="1264" alt="image" src="https://github.com/user-attachments/assets/843ab316-4ba3-47d6-8089-9c72689f855b" />
 <img width="1665" height="1103" alt="image" src="https://github.com/user-attachments/assets/bf539ac3-1e6f-46c2-8df4-b04c4e2060f5" />
 <img width="1004" height="1028" alt="image" src="https://github.com/user-attachments/assets/2f4bb294-4d52-4ce5-b6f7-dd154d7c89fd" />
 <img width="595" height="915" alt="image" src="https://github.com/user-attachments/assets/ee599d2b-b64c-4e09-8b0a-3f4d7016ce60" />
@@ -43,6 +48,8 @@ Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
 ESC distribution board:
 10V Buck, 3,3V LDO and the ampmeter
 
+<img width="1409" height="1262" alt="image" src="https://github.com/user-attachments/assets/b5db9bbf-70e1-435b-bc5f-7c17a296d92d" />
+<img width="1400" height="1267" alt="image" src="https://github.com/user-attachments/assets/6bfa0454-5c97-4fba-ae7b-1958312e5e11" />
 <img width="1682" height="1150" alt="image" src="https://github.com/user-attachments/assets/db60be26-f4ce-484b-8443-52aec6242ec7" />
 <img width="1393" height="1200" alt="image" src="https://github.com/user-attachments/assets/74cd6e27-873b-4b8a-b57e-195bceefee8b" />
 <img width="1347" height="1208" alt="image" src="https://github.com/user-attachments/assets/891c05cf-ec29-4131-bbb6-71624fa22584" />
