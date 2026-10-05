@@ -35,7 +35,7 @@ VTX Connector Pinout:
 <img width="957" height="978" alt="image" src="https://github.com/user-attachments/assets/4df28cf1-1bec-48e5-b79f-035111ed15a6" />
 <img width="957" height="991" alt="image" src="https://github.com/user-attachments/assets/1c575da3-5469-4c99-a1cd-5d12f89e317c" />
 
-### ESCs:
+## ESCs:
 Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
   - Bluejay (Layout A), BLHeli_S compatible
   - Dshot bidirectional
@@ -47,7 +47,7 @@ Based on EFM88B21, FD6288 and PSMN1R4-40YLDX.
 <img width="772" height="1034" alt="image" src="https://github.com/user-attachments/assets/d8b385d6-878d-4705-b879-7fcaa9624515" />
 <img width="586" height="920" alt="image" src="https://github.com/user-attachments/assets/4e06024a-95bd-42e9-b338-4f85c3afe31e" />
 
-#### ESC distribution board:
+## ESC distribution board:
 10V Buck, 3,3V LDO and the ampmeter
 
 <img width="1409" height="1262" alt="image" src="https://github.com/user-attachments/assets/b5db9bbf-70e1-435b-bc5f-7c17a296d92d" />
@@ -72,7 +72,7 @@ The PCB size is not final yet, it WILL change.
 (You can see "pictures" when opening the PCB Files with KiCad)
 
 
-##### Now the expensive things (duhhh):
+## Now the expensive things (duhhh):
 
 PCBs:
 <img width="1534" height="794" alt="image" src="https://github.com/user-attachments/assets/fa026ec6-8ed2-4e17-a240-8ec0853c7238" />
