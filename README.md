@@ -108,3 +108,19 @@ Parts:
 3. Click on "Add to Cart"
 <img width="1375" height="1022" alt="image" src="https://github.com/user-attachments/assets/56a1acbb-66d6-4fd9-8db6-033a1b2a1f35" />
 
+
+
+## Grouped BOM
+
+| Part group | Qty used | Price (USD) |
+|---|---:|---:|
+| Resistors, including the current shunt | 68 | $3.09 |
+| Capacitors | 85 | $9.99 |
+| Inductors | 3 | $2.40 |
+| Semiconductors and ICs | 57 | $73.05 |
+| USB receptacle | 1 | $1.50 |
+| Switches | 2 | $0.53 |
+| Cables | 6 | $0.00 |
+| PCBs | 6 | $103.30 |
+| Shipping | 1-2 | ~$20-40 |
+| **Total** | | **$195.79** |
