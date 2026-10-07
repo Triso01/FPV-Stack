@@ -74,13 +74,12 @@ The PCB size is not final yet, it WILL change.
 
 ## What are the boards for?
 
-The Flight Controller is the "Mainboard" it is the heart of the Stack, it provides the "Brain" and the IMU, without the IMU stable flights would not be possible.
+The Flight Controller (FC) is the main control board and the "brain" of the FPV stack. It runs the flight-control firmware and uses its IMU to measure the drone's movement, which is required for stable flight.
 
-The ESC Distribution Board is like the "Power Suply" it makes the main voltages (10V for the Gates, 3,3V for the ESC logic) and makes from one battery connection 4 for the ESCs.
+The ESC Distribution Board distributes one battery connection to four individual ESCs. It also generates the 10 V gate-driver supply and the 3.3 V supply for the ESC logic, and measures the total battery current.
 
-The ESC is the real challange, it drives the brushless motor, and is the smallest part of my project.
+Each Electronic Speed Controller (ESC) drives one three-phase brushless motor. Designing this small, high-current board was the most challenging part of the project.
 
-I hope these explanations are possible to understand!
 
 ## Now the expensive things (duhhh):
 
