@@ -72,6 +72,16 @@ The PCB size is not final yet, it WILL change.
 (You can see "pictures" when opening the PCB Files with KiCad)
 
 
+## What are the boards for?
+
+The Flight Controller is the "Mainboard" it is the heart of the Stack, it provides the "Brain" and the IMU, without the IMU stable flights would not be possible.
+
+The ESC Distribution Board is like the "Power Suply" it makes the main voltages (10V for the Gates, 3,3V for the ESC logic) and makes from one battery connection 4 for the ESCs.
+
+The ESC is the real challange, it drives the brushless motor, and is the smallest part of my project.
+
+I hope this explanation is possible to understand!
+
 ## Now the expensive things (duhhh):
 
 PCBs:
