@@ -80,7 +80,7 @@ The ESC Distribution Board is like the "Power Suply" it makes the main voltages 
 
 The ESC is the real challange, it drives the brushless motor, and is the smallest part of my project.
 
-I hope this explanation is possible to understand!
+I hope these explanations are possible to understand!
 
 ## Now the expensive things (duhhh):
 
