@@ -76,7 +76,7 @@ The PCB size is not final yet, it WILL change.
 
 The Flight Controller (FC) is the main control board and the "brain" of the FPV stack. It runs the flight-control firmware and uses its IMU to measure the drone's movement, which is required for stable flight.
 
-The ESC Distribution Board distributes one battery connection to four individual ESCs. It also generates the 10 V gate-driver supply and the 3.3 V supply for the ESC logic, and measures the total battery current.
+The ESC Distribution Board distributes one battery connection to four individual ESCs. It also generates the 10 V gate-driver supply, and measures the total battery current.
 
 Each Electronic Speed Controller (ESC) drives one three-phase brushless motor. Designing this small, high-current board was the most challenging part of the project.
 
